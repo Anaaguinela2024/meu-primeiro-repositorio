@@ -1,0 +1,10 @@
+header {
+    background-color: #7e0030;
+    color: white;
+}
+.estudantes{
+display: grid;
+grid-template-columns: 50% 50%;
+grid-template-rows: 50% 50% 50%;
+
+}
